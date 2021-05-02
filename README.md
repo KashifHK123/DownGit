@@ -1,5 +1,7 @@
 <h1> <img src="https://github.com/MinhasKamal/DownGit/raw/master/res/images/downgit.png" width="20" height=auto /> DownGit </h1>
 
+Fork From https://github.com/MinhasKamal/DownGit
+
 #### Create GitHub Resource Download Link
 
 With this tool you can directly download or create download link to any GitHub **public directory or file**.
